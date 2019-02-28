@@ -8,7 +8,5 @@ Maintainer: Stefan Wilhelm <wilhelm@financial.com>
 Description: ShinyRatingInput builds a rating input widget based on the library "bootstrap-rating" from
  http://dreyescat.github.io/bootstrap-rating/ to be used in Shiny apps.
 License: MIT + file LICENSE
-Depends:
-  R (>= 2.14.1)
-Imports:
-  shiny (>= 0.10.1)
+Depends: R (>= 2.14.1)
+Imports: shiny (>= 0.10.1)
